@@ -16,7 +16,7 @@ You can link to it using the sample code below:
 
 [Final submission](www.albertaconnectivity.myportfolio.com)
 
-[Notion Notebook](https://www.notion.so/Cybera-Hackathon-b07ff68534684266b5a1c5d53232ea8f](https://www.notion.so/Cybera-Hackathon-b07ff68534684266b5a1c5d53232ea8f))
+[Notion Notebook](https://www.notion.so/Cybera-Hackathon-b07ff68534684266b5a1c5d53232ea8f)
 
 ### INSPIRATION (2 - 3 sentences)
 
