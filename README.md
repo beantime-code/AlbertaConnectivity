@@ -14,7 +14,7 @@ You can link to it using the sample code below:
 
 ## DEMO WEBSITE, APP, REPORT, DASHBOARD, NOTEBOOKS, or OTHER
 
-[Final submission](www.albertaconnectivity.myportfolio.com)
+[Final submission](https://www.albertaconnectivity.myportfolio.com)
 
 [Notion Notebook](https://www.notion.so/Cybera-Hackathon-b07ff68534684266b5a1c5d53232ea8f)
 
