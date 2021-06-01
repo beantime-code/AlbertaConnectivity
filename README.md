@@ -10,7 +10,7 @@ Link to YouTube video of you demonstrating your hackathon submission prototype (
 
 You can link to it using the sample code below:
 
-[![Video Link](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Video Link](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/waA8BGbmvxU)
 
 ## DEMO WEBSITE, APP, REPORT, DASHBOARD, NOTEBOOKS, or OTHER
 
