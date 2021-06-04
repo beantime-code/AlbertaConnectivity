@@ -1,8 +1,9 @@
 # Understanding Alberta's Connectivity Issues
+---
 
 ## We aimed to help users better digest public data about connectivity issues in Alberta, by providing them with simple screen to break everything down. 
 
-## By: Vitaly Gins, Robert Nguyen, Dustin Schulz, Satveer Singh, Erica Trinh
+## By: Robert Nguyen, Satveer Singh, Erica Trinh
 
 ## SUBMISSION DEMO VIDEO
 
@@ -10,7 +11,7 @@ Link to YouTube video of you demonstrating your hackathon submission prototype (
 
 You can link to it using the sample code below:
 
-[![Video Link](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/waA8BGbmvxU)
+[Video Link](https://youtu.be/waA8BGbmvxU)
 
 ## DEMO WEBSITE, APP, REPORT, DASHBOARD, NOTEBOOKS, or OTHER
 
@@ -20,7 +21,7 @@ You can link to it using the sample code below:
 
 ### INSPIRATION (2 - 3 sentences)
 
-- We drew inspiration from [speedtest.net](http://speedtest.net) as we found that the way they displayed their information was clear and concise, and was easily understood by users who weren't as tech savvy. Another website we drew information from was [https://explorer.helium.com/](https://explorer.helium.com/) as they were also able to separate a large amount of data into many smaller pieces that are easier to digest. Keeping these both in mind, we were able to narrow down the kind of information we wanted users to easily see.
+We drew inspiration from [speedtest.net](http://speedtest.net) as we found that the way they displayed their information was clear and concise, and was easily understood by users who weren't as tech savvy. Another website we drew information from was [https://explorer.helium.com/](https://explorer.helium.com/) as they were also able to separate a large amount of data into many smaller pieces that are easier to digest. Keeping these both in mind, we were able to narrow down the kind of information we wanted users to easily see.
 
 ### WHAT YOU BUILT (2 - 3 sentences)
 
@@ -40,12 +41,12 @@ We hope that anyone is able to use this and that it is written plainly enough to
 
 ### CHALLENGES YOU RAN INTO (2 - 3 sentences)
 
-- As most of us are extremely new to data science, one of the biggest challenges we came across was understanding how to filter mass amounts data, and where to start. As users of the internet, we were able to sort information important to us, and next came the problem of finding a way to show the information in a way that it is easy to understand.
+As most of us are extremely new to data science, one of the biggest challenges we came across was understanding how to filter mass amounts data, and where to start. As users of the internet, we were able to sort information important to us, and next came the problem of finding a way to show the information in a way that it is easy to understand.
 
 ### ACCOMPLISHMENTS THAT YOU’RE PROUD OF (2 - 3 sentences)
 
-- We would have to say that we're proud of handing something in. Jokes aside, it was great to be able to pull through to the end with Satveer leading and delegating tasks. We hope that we've created something that scratches the surface on understanding the disparity.
+We would have to say that we're proud of handing something in. Jokes aside, it was great to be able to pull through to the end with Satveer leading and delegating tasks. We hope that we've created something that scratches the surface on understanding the disparity.
 
 ### LESSONS YOU’VE LEARNED (2 - 3 sentences)
 
-- Groupwork can be challenging especially when it is virtual. You need a leader who will delegate tasks based on each other's knowledge, and that it's extremely difficult and stressful to manage when all group members have their own day to day duties, especially during the pandemic.
+Groupwork can be challenging especially when it is virtual. You need a leader who will delegate tasks based on each other's knowledge, and that it's extremely difficult and stressful to manage when all group members have their own day to day duties, especially during the pandemic.
